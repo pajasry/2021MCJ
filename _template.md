@@ -1,5 +1,4 @@
 # Název
-### Autor
 
 Literální druh: __example__\
 Literární žánr: __example__\
