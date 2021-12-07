@@ -1,4 +1,4 @@
-# Máj
+# Máj - Karel Hynek Mácha
 
 Literální druh: __lyricko-epická básnická skladba__\
 Literární žánr: __poezie__\
@@ -41,7 +41,7 @@ Vydání: __1836__
 **Časoprostor:** okolí hradu Bezděz, Máj 1774\
 **Kompoziční výstavba:** čtyři zpěvy a dvě intermezza, jambický verš (předzpěv pouze naznačen)
 **Vypravěč:** Hynek, sám autor (3. zpěv er-forma => ich-forma)\
-**Vyprávěcí způsoby:** er-forma, závěr ich-forma, poetismy, archaismy spisovná čeština, ustálená slovní zásoba
+**Vyprávěcí způsoby:** er-forma, závěr ich-forma, poetismy, archaismy spisovná čeština, ustálená slovní zásoba\
 **Postavy:**
 
 - Jarmila - mladá dívka, miluje Viléma, zkoušena osudem, skočí ze skály
