@@ -6,6 +6,7 @@ Literární směr: __romantismus__\
 Vydání: __1836__
 
 ## Autor
+
 **Autor:**
 
 - vystudoval filozofii v Praze
@@ -34,8 +35,8 @@ Vydání: __1836__
 - důraz na cit, invidualitu a tajemství
 - próza, drama, poezie, lyricko-epická balada, pohádka
 
-
 ## Rozbor
+
 **Téma:** vina a smrt, láska, Země, čas\
 **Myšlenka díla:** kritika boha, rozvrácenost člověka, úvahy o čase, o smrti, čas ztrácí význam při čekání na popravu\
 **Časoprostor:** okolí hradu Bezděz, Máj 1774\
@@ -49,7 +50,8 @@ Vydání: __1836__
 - Hynek - poutník, sám autor, otřesen Vilémovým osudem
 - zvířata, příroda, sbor duchů
 
-## Děj:
+## Děj
+
 **TLDR;** Příběh začíná, když Vilém zavraždí svůdce Jarmily. Až poté zjistí, že zabil vlastního otce. Kvůli němu se stal obávaným loupežníkem, protože ho v mládí vyhnal z domu. Za vraždu je uvržen do vězení, kde má mnoho času přemýšlet. Před popravou přemýšlí o smrti, trestu, životě. V posledních hodinách medituje nad životními hodnotami. 
 
 Když se Jarmila dozví, co se stalo jejímu milému, ukončí svůj život skokem do jezera. Po několika letech přichází po několika vypravěč básně a nad pozůstatky Vilémova těla se vžije do tragédie.

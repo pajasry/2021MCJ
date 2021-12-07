@@ -6,6 +6,7 @@ Literární směr: __klasicismus__\
 Vydání: __1668__
 
 ## Autor
+
 **Autor:**
 
 - Jean-Baptiste Poquelin
@@ -32,6 +33,7 @@ Vydání: __1668__
 - veršované hry, dlouhé monology, jambický verš
 
 ## Rozbor
+
 **Téma:** lakomec, pro kterého peníze znamenají všechno, je schopen obětovat i lásku rodiny, zesměšňuje maloměšťáctví, církev\
 **Myšlenka díla:** kritika chorobné touhy po penězích \
 **Časoprostor:** Paříž 1670\
@@ -46,7 +48,7 @@ Vydání: __1668__
 - Valér - sluha Harpagona, zamilovaný do jeho dcery
 - Čipera - sluha Kleanta, ukradne Harpagonovi skříňku s penězi, aby pomohl Kleantovi
 
-## Děj:
+## Děj
 
 Harpagon je sice bohatý, ale je neuvěřitelný lakomec. Každého podezírá z krádeže včetně svých dětí (syna a dcery). Jeho syn je nucen půjčovat si odjinud. Kleantes je zamilován do chudé dívky Mariany a chce otce požádat o svolení ke sňatku. Otec syna překvapí s tím, že si Marianu vezme on. Kleanta by rád oženil s bohatou vdovou. Dceru, která je zamilovaná do Valéra chce provdat za stárnoucího boháče Anselma.
 
