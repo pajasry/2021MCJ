@@ -7,8 +7,6 @@ Vydání: __1668__
 
 ## Autor
 
-**Autor:**
-
 - Jean-Baptiste Poquelin
 - představitel vrcholného francouzského klasicismu
 - Získal si náklonost Ludvíka XIV. a stal se organizátorem královských akcí.
