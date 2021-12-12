@@ -1,5 +1,5 @@
-name: Eport pdf
-on: [push, workflow_dispatch]
+name: Export pdf
+on: [ workflow_dispatch]
 jobs:
   Eport-Pdf:
     name: Build PDF
