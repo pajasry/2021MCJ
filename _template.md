@@ -1,25 +1,28 @@
 # Název
 
-Literální druh: __example__\
-Literární žánr: __example__\
-Vydání: __date__
+Literální druh: ____\
+Literární žánr: ____\
+Literární směr: ____\
+Vydání: ____
 
-**Téma:**\
-**Motiv:** \
-**Časoprostor:**\
-**Kompoziční výstavba:**
+## Autor
 
-**Kontext autorovy tvorby:**\
-**Směr tvorby:**\
+
+**Kontext autorovy tvorby:**
+
 **Autorovi současníci:**
+
 **Literální kontext:**
 
-**Vypravěč:**\
-**Vyprávěcí způsoby:** Typy promluv, spisovnost\
+
+## Rozbor
+
+**Téma:**  \
+**Myšlenka díla:**  \
+**Časoprostor:** \
+**Kompoziční výstavba:** \
+**Vypravěč:**  \
+**Vyprávěcí způsoby:**  \
 **Postavy:**
-- Postava
-- Postava
 
-**Děj:**
-
-
+## Děj
