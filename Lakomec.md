@@ -36,7 +36,7 @@ Vydání: __1668__
 **Myšlenka díla:** kritika chorobné touhy po penězích \
 **Časoprostor:** Paříž 1670\
 **Kompoziční výstavba:** chronologická, 5 dějství\
-**Vypravěč:** vševědoucí \
+**Vypravěč:** neurčuje se \
 **Vyprávěcí způsoby:** er-forma, jazyk spisovný, místy archaický \
 **Postavy:**
 
